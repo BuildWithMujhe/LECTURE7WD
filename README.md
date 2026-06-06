@@ -63,8 +63,10 @@ This repository is part of my Web Development learning journey, where I consiste
 ## 👨‍💻 Connect With Me
 
 * GitHub: https://github.com/buildwithmujhe
-* LinkedIn: https://www.linkedin.com/in/your-linkedin-username/
+* LinkedIn: https://www.linkedin.com/in/abhi-builds-ai/
 
 ---
 
 ⭐ If you found this repository helpful, feel free to explore my other repositories and follow my learning journey.
+
+
