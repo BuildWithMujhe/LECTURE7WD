@@ -60,8 +60,11 @@ This repository is part of my Web Development learning journey, where I consiste
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Connect With Me
 
-**Abhinav Kumar**
+* GitHub: https://github.com/buildwithmujhe
+* LinkedIn: https://www.linkedin.com/in/your-linkedin-username/
 
-GitHub: https://github.com/buildwithmujhe
+---
+
+⭐ If you found this repository helpful, feel free to explore my other repositories and follow my learning journey.
